@@ -1,1 +1,2 @@
 alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+xprobe/xinference:v0.12.3 registry.cn-beijing.aliyuncs.com/lemon_3853/xinference:v0.12.3
